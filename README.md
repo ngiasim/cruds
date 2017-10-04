@@ -1,2 +1,2 @@
 # cruds
-Bsic cruds
+Basic cruds
